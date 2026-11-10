@@ -83,7 +83,7 @@ The architecture may expand to include additional Windows and Linux machines for
 - [X] Phase 2: Install Docker and deploy GLPI
 - [X] Phase 3: Configure users, roles, and support groups
 - [X] Phase 4: Implement incident management workflows
-- [ ] Phase 5: Configure change management procedures
+- [X] Phase 5: Configure change management procedures
 - [ ] Phase 6: Simulate incidents and document resolutions
 - [ ] Phase 7: Complete technical documentation
 
