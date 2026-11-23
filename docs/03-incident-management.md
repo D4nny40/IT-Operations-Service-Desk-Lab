@@ -579,8 +579,3 @@ The completed incident also provided the justification for implementing automate
 - `04-change-management.md` — Monitoring change request and approval
 - `05-monitoring-and-alerting.md` — Automated health monitoring
 - `06-testing-and-results.md` — Overall testing and evaluation
-
-**Project:** IT Operations Service Desk Lab  
-**Incident:** GLPI Ticket #1 — Internal Web Service Unavailable  
-**Author:** Daniel Watson  
-**Platform:** GLPI / Ubuntu Server / Nginx
